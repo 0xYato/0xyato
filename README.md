@@ -9,8 +9,8 @@
 
 ## Languages & Tools
 
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" alt="Python" height="40"/></a>
-<a href="https://www.linux.org/" title="Linux"><img src="icons/linux.png" alt="Linux" height="40"/></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" alt="Docker" height="40"/></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" alt="Ansible" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="icons/sql.png" alt="SQL" height="40"/></a>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
